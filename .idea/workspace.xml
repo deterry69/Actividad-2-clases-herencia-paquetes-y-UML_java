@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eed1c08a-67c3-4b03-b293-18a67d4cc5a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/src/articulos/AlbumMusica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/src/articulos/Articulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/src/articulos/Pelicula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/src/articulos/Videojuego.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UD2_Act2evaluable_java/src/articulos/libro.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UD2_Act2evaluable_java" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="35ZTnFfa3B4GRf1uYm2FAlTfra8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/alfon/IdeaProjects/act2/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed1c08a-67c3-4b03-b293-18a67d4cc5a6" name="Changes" comment="" />
+      <created>1763316761306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763316761306</updated>
+    </task>
+    <servers />
+  </component>
+</project>
